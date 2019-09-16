@@ -1,0 +1,17 @@
+.img1{
+	border-radius:50%;
+	
+	width:120px;
+	height:150px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.welcm{
+	text-align:center;
+	color:blue;
+}
+
+.frms{
+	text-align:center;
+}

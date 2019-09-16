@@ -1,0 +1,9 @@
+body {
+	background: url(pic1.jpg) scroll no-repeat right top ;
+}
+h1{
+	color:rgba( 255, 70, 71, 0.5);
+}
+h6{
+	color:hsla( 10, 50%, 50%, 0.6);
+}
